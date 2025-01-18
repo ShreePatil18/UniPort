@@ -1,0 +1,98 @@
+{
+  "name": "Shreyash Patil",
+  "navigation": [
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "experience": {
+    "title": "Experience",
+    "itemsll": [
+      {
+        "title": "Project Intern",
+        "company": "Tata Consultancy Services",
+        "duration": "February 2024 –June 2024",
+        "details": [
+          "Leveraged GPT-4 and Prompt Engineering: Utilized GPT-4 and prompt engineering techniques to develop a system for generating automated testing code, fine-tuning the model for accurate and relevant test case generation.",
+          "Implemented the RAG model to enhance the generation of test data based on metadata files of the applications, combining retrieval and generation capabilities to create comprehensive test data.",
+          "Developed an automated testing system capable of generating and executing test cases with minimal manual intervention, and conducted extensive debugging to ensure effective test case generation and execution, thereby improving the efficiency and reliability of the testing process.",
+          "Successfully automated frontend testing, API testing, and unit testing for Spring Boot and Flask applications, ensuring thorough validation of application functionality across different layers."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "itemsll": [
+      {
+        "image": "static/images/project1.webp",
+        "title": "Indian Food Dish Prediction",
+        "description": "This project focused on predicting Indian food dishes based on images, utilizing the YOLO v4 algorithm for real-time object detection. The system was trained to accurately identify a wide variety of Indian dishes from images.",
+        "link": "project1-details.html"
+      },
+      {
+        "image": "static/images/project2.webp",
+        "title": "Project Managment System",
+        "description": "Developed a web-based application designed for colleges to store and manage all student projects efficiently. This platform serves as a comprehensive repository, enabling students to access previous projects for guidance and inspiration in their specific fields of interest.",
+        "link": "project2-details.html"
+      },
+      {
+        "image": "static/images/project3.png",
+        "title": "Spam Caller API",
+        "description": "This is a Flask-based API that provides functionality for user registration, login, user search, and marking phone numbers as spam. It also includes JWT-based authentication and password hashing using Flask-Bcrypt.",
+        "link": "project2-details.html"
+      },
+      {
+        "image": "static/images/project4.webp",
+        "title": "UniPort-Universal Portfolio",
+        "description": "A dynamic portfolio template built using Flask and HTML, powered by JSON for flexible and reusable data integration. Ideal for showcasing skills, projects, and personal information with ease.",
+        "link": "project2-details.html"
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "itemsll": [
+      {
+        "university": "Vishwakarma Institute of Technology",
+        "degree": "B-Tech Artificial Intelligence and Data Science",
+        "cgpa": "CGPA : 8.86"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Get in touch with me!",
+    "phone": "+919975940901",
+    "email": "patilshreyash1811@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/shreyash-patil-995344202",
+    "github": "https://github.com/ShreePatil18"
+  },
+
+  "skills": {
+    "title": "Skills",
+    "s_items": [
+      {
+        "name": "Languages",
+        "level": "Java, Python, C/C++, SQL"
+      },
+      {
+        "name": "Machine Learning Algorithms",
+        "level": "Deep Learning, Neural Network, Regression analysis, XGBoost, Classification, Clustering, NLP"
+      },
+      {
+        "name": "Frameworks",
+        "level": "React, Streamlit, SpringBoot, Django, Flask"
+      },
+      {
+        "name": "Developer Tools",
+        "level": "Git, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse"
+      },
+      {
+        "name": "Technologies",
+        "level": "GEN AI (Generative AI), YOLO v4, GPT-4"
+      }
+    ]
+  }
+
+}
